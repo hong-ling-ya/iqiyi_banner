@@ -1,0 +1,26 @@
+@media screen and (max-width: 1042px)
+     {
+      .content{flex-wrap: wrap; 
+     }
+      .container {
+        width: 25%;
+    }
+	  }
+
+    @media screen and (max-width: 768px)
+     {
+      .content{flex-wrap: wrap; 
+     }
+      .container {
+        width: 30%;
+    }
+	  }
+
+@media screen and (max-width: 414px) {
+      .content{
+      flex-wrap: wrap;
+     }
+     .container {
+        width: 45%;
+    }
+     }
