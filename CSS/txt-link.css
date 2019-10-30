@@ -1,0 +1,14 @@
+         a:link{
+	       font-size: 14px;
+           color:black;
+           text-decoration: none;
+           }
+		
+		a:visited {
+		           color:black;}
+				 
+		a:hover { 
+		         color:#00ff66;}
+
+		a:active {
+			     color:#00be06;}
